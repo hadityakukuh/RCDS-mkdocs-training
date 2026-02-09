@@ -1,5 +1,6 @@
-# Welcome to MkDocs
+# Kukuh' Training for MkDocs
 
+This is my first attempt on MkDocs.
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands
