@@ -1,2 +1,11 @@
-site_name: My Docs
-theme: material
+site_name: Purwanto, Haditya Kukuh
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences

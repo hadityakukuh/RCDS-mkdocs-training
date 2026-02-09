@@ -3,6 +3,14 @@
 This is my first attempt on MkDocs.
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
+![ECRI banner](./assets/ecri-banner.png)
+
+!!! note "Phasellus posuere in sem ut cursus"
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
+
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
