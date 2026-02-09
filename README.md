@@ -63,9 +63,18 @@ Checklist
 - [ ] Add content and webpages
 - [ ] Enjoy my site!
 
+Table
+<!-- An example for table. -->
+
+| Column 1 | Column 2 | Column 3 |
+| :---: | ---: | :--- |
+| Row 1, Cell 1 | Row 1, Cell 2 | Row 1, Cell 3 |
+| Row 2, Cell 111111 | Row 2, CCCCCCell 2 | RRRRRRow 2, Cell 3 |
+
+
 <!-- Another heading. This could be a level 2 heading again. -->
 
-Going Further
+## Going Further
 
 If you are working locally you can install Material for Mkdocs with pip, like so
 
@@ -81,6 +90,7 @@ pip install mkdocs-material
 Those are a few of the basics, but there is lots more to explore. [This](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 is a great resource from GitHub.
 
+## Acknowledgements
 This material was developed by the RCDS team at ECRI.
 
 <!-- Images are similar but begin with an exclamation point ![ALT TEXT](URL) -->
